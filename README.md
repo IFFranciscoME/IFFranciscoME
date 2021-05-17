@@ -16,7 +16,7 @@ I'm currently an *Associate Professor* in the **Mathematics and Physics Departme
 
 ## ⚡ Notes and ideas
 - Recently restarted my Kaggle activity [IFFranciscoME](https://www.kaggle.com/iffranciscome)
-- I’m looking to collaborate on DeFi, Distributed Machine Learning, Data Science for Social Good, Data visualization and related.
+- I’m looking to collaborate on DeFi, Evolutionary ML/AI, Data Science for Social Good, Data visualization and related.
 - I've a beta-version python Machine Learning package [`lucidmode`](https://github.com/lucidmode/lucidmode/), Please visit and contribute if possible.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/iffranciscome/) | [correo-e](mailto:franciscome@iteso.mx) | [iffranciscome.com](https://www.iffranciscome.com) 
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.

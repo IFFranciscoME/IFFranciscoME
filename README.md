@@ -1,8 +1,8 @@
-## 👋 Hola, This is Me >
+## 👋 Hola, This is Me
 
-I'm currently an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, and my research interests are in Financial Machine Learning, DeFi, Explainable AI, Ethical AI, Scientific Computing. I'm looking for the next big step in a DeFi Startup or PhD in areas such as: Financial Computing / Explainable AI / AI Training in Blockchain.
+I'm currently an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, and my research interests are in Financial Machine Learning, DeFi, Explainable AI, Ethical AI, Scientific Computing. I'm looking for the next big step in a DeFi/AI Startup or PhD in research topics such as: Financial Computing / Explainable AI / Federated AI Learning in Blockchain.
 
-## 💬 **Currently teaching:**
+## 💬 **Currently teaching**
 - *Market microstructure and Trading Systems* (Course:MAF1731A)
 - *Financial Machine Learning* (Topic-1/Course:PAP4J05A)
 - *Explainable and Ethical AI* (Topic-2/Course:PAP4J05A)

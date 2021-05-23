@@ -13,7 +13,7 @@ I'm currently an *Associate Professor* in the **Mathematics and Physics Departme
 | Name | Logo | Description | Downloads | 
 |:--------------------:|:--------:|:--------:|:-----------:|
 | [lucidmode](https://github.com/lucidmode/lucidmode) | <img src="https://github.com/lucidmode/lucidmode/raw/main/images/lucidmode_logo.png" title="lucidmode" width="90%"> | A Lucid Framework for Transparent and Interpretable Machine Learning Models [lucidmode.org](https://lucidmode.org) | [![Downloads](https://pepy.tech/badge/lucidmode)](https://pepy.tech/project/lucidmode) | 
-| supermass | coming soon ... | A python-rust biding and super-computing based MASS Algorithm for Subsequential Timeseries Clustering | coming soon ... | 
+| supermass | coming soon | A python-rust biding and super-computing based MASS Algorithm for Subsequential Timeseries Clustering | coming soon | 
 
 
 ## ⚡ Notes and ideas

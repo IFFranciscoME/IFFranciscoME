@@ -1,4 +1,4 @@
-## 👋 Hola, This is Me.
+## 👋 Hola, This is Me
 
 I'm currently an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my research interests are mainly DeFi, Explainable AI, Financial Machine Learning, Scientific Computing. I'm looking for the next big challenge in joining a DeFi/AI Startup or PhD in research topics such as: Financial Computing / DeFi SmartContracts / Explainable AI / AI Learning in Blockchain.
 

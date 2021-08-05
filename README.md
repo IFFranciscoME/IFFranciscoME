@@ -1,6 +1,6 @@
 ## 👋 Hola, This is Me
 
-I'm currently a Quantitative Trader @Kerock.eu, also an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Explainable AI, Financial Machine Learning, Scientific Computing.
+I'm currently a Quantitative Trader @Keyrock.eu, also an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Explainable AI, Financial Machine Learning, Scientific Computing.
 
 ## 💬 Currently teaching
 - *Market microstructure and Trading Systems* (Course:MAF1731A)

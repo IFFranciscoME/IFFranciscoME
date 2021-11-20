@@ -16,8 +16,15 @@ I'm currently a Quantitative Trader *[Keyrock](https://keyrock.eu)*, also an *As
 
 
 ## ⚡ Notes and ideas
-- Recently restarted my Kaggle activity [IFFranciscoME](https://www.kaggle.com/iffranciscome)
 - I’m looking to collaborate on DeFi, Evolutionary ML/AI, Data Science for Social Good and related.
 - I've a beta-version python Machine Learning package [`lucidmode`](https://github.com/lucidmode/lucidmode/), Please visit and contribute if possible.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/iffranciscome/) | [correo-e](mailto:franciscome@iteso.mx) | [iffranciscome.com](https://www.iffranciscome.com) 
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.
+
+## Kaggle 
+- Recently restarted my Kaggle activity [IFFranciscoME](https://www.kaggle.com/iffranciscome)
+
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/competitions)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/datasets)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/discussion)

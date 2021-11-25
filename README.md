@@ -21,5 +21,5 @@ I'm currently a Quantitative Trader *[Keyrock](https://keyrock.eu)*, also an *As
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/iffranciscome/) | [correo-e](mailto:franciscome@iteso.mx) | [iffranciscome.com](https://www.iffranciscome.com) 
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.
 
-## Kaggle 
+## :computer: Kaggle
 - Recently restarted my Kaggle activity [IFFranciscoME](https://www.kaggle.com/iffranciscome)

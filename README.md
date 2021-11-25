@@ -23,8 +23,3 @@ I'm currently a Quantitative Trader *[Keyrock](https://keyrock.eu)*, also an *As
 
 ## Kaggle 
 - Recently restarted my Kaggle activity [IFFranciscoME](https://www.kaggle.com/iffranciscome)
-
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/competitions)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/datasets)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IFFranciscoME/discussion)

@@ -1,12 +1,10 @@
 ## 👋 Hola, This is Me
 
-I'm currently a Quantitative Trader *[Keyrock](https://keyrock.eu)*, also an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Explainable AI, Financial Machine Learning, Scientific Computing.
+I'm currently working in R&D and Quantitative Trading at *[Keyrock](https://keyrock.eu)*, also as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Financial Machine Learning, Scientific & Cloud Computing.
 
 ## 💬 Currently teaching
 - *Market microstructure and Trading Systems* (Course:MAF1731A)
-- *Explainable/Ethical AI* (Topic-2/Course:PAP4J05A)
-- *Financial Machine Learning* (Topic-1/Course:PAP4J05A)
-- *Introduction to Decentralized Finance* (Topic-3/Course:PAP4J05A)
+- *Graduate Thesis Advisor* (Topic-1/Financial Machine Learning)
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Python projects
 
@@ -16,8 +14,9 @@ I'm currently a Quantitative Trader *[Keyrock](https://keyrock.eu)*, also an *As
 
 
 ## ⚡ Notes and ideas
-- I’m looking to collaborate on DeFi, Evolutionary ML/AI, Data Science for Social Good and related.
-- I've a beta-version python Machine Learning package [`lucidmode`](https://github.com/lucidmode/lucidmode/), Please visit and contribute if possible.
+- Currently making some exploratory coding for Automata Theory for AI-based NFTs.
+- Learning Rust for scientific computing with Financial High Frequency Time Series.
+- I have a beta-version python Machine Learning package [`lucidmode`](https://github.com/lucidmode/lucidmode/), Please visit and contribute if possible.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/iffranciscome/) | [correo-e](mailto:franciscome@iteso.mx) | [iffranciscome.com](https://www.iffranciscome.com) 
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.
 

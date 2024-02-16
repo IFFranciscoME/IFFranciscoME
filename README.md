@@ -1,10 +1,10 @@
 ## 👋 Hola, This is Me
 
-I'm currently working in R&D and Quantitative Trading at *[Keyrock](https://keyrock.eu)*, also as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Financial Machine Learning, Scientific & Cloud Computing.
+I'm currently working as a Quantitative Data Engineer at *[Keyrock](https://keyrock.eu)*, and also as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*. Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Financial Machine Learning, Scientific & Cloud Computing.
 
 ## 💬 Currently teaching
 - *Market microstructure and Trading Systems* (Course:MAF1731A)
-- *Graduate Thesis Advisor* (Topic-1/Financial Machine Learning)
+- *Graduate Thesis Advisor* : DeML Lab for Generative AI, Machine Learning and Decentralized Finance
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Python projects
 

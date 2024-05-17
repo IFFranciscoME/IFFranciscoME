@@ -1,6 +1,6 @@
 ## 👋 Hola, This is Me
 
-I currently hold a position as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*, where I am lecturer and researcher on topics related to Machine Learning. Also I've started a nonprofit organization for Opensource projects in the Generative A.I. space, called [iteralabs.ai](https://iteralabs.ai). Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Financial Machine Learning, Scientific Computing and later these days, LLMOps.
+I currently hold a position as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*, where I am lecturer and researcher on topics related to Machine Learning. Also I've started a nonprofit organization for Opensource projects in the Generative A.I. space, called [iteralabs.ai](https://www.iteralabs.ai). Have a background on B.Eng in Financial Engineering and M.Sc in Data Science, my work and research interests are mainly DeFi, Financial Machine Learning, Scientific Computing and later these days, LLMOps.
 
 ## 💬 Currently teaching
 - *Graduate Thesis Advisor* : DeML Lab for Generative AI, Machine Learning and Decentralized Finance

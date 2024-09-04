@@ -11,12 +11,13 @@ I currently hold a position as an *Associate Professor* in the **Mathematics and
 | Name | Description | Official | 
 |:--------------------:|:--------:|:-----------:|
 | [atelier](https://github.com/iteralabs/atelier) | A Computational Framework for Market Microstructure Modeling. | [crates.io](https://crates.io/crates/atelier) | 
-| [lucien](https://github.com/iteralabs/lucien) | A Lucid Agent for tracing activity from Machine Learning Models | [pypi.org](https://pypi.org/project/lucien/) | 
 | [traderman](https://github.com/iteralabs/traderman) | Python SDK to build, train, stress-test, deploy and monitor trading strategies | [pypi.org](https://pypi.org/project/traderman/) | 
+| [lucien](https://github.com/iteralabs/lucien) | A Lucid Agent for tracing activity from Machine Learning Models | [pypi.org](https://pypi.org/project/lucien/) | 
+| [magnetise](https://github.com/iteralabs/magnetise) | A Rust library to find similarity between SQL queries | [crates.io](https://crates.io/crates/magnetise) | 
+
 
 
 ## ⚡ Notes and ideas
-- Learning Rust for scientific computing with Financial High Frequency Time Series.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/iffranciscome/)
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.
 

@@ -1,6 +1,6 @@
 ## 👋 Hola, This is Me
 
-I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science and PhD in Engineering Sciences for AI (Candidate). I work also as a contractor for projects about DeFi and Generative A.I. space, through [iteralabs.ai](https://www.iteralabs.ai). Finally, I also hold a position as an *Associate Professor* in the **Mathematics and Physics Department** at *[ITESO](https://iteso.mx)*, where I am lecturer, thesis director and researcher on topics related to Financial Machine Learning, Generative AI, Decentralized Finance. 
+I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science and PhD in Engineering Sciences for AI (Candidate). I work also as a contractor for projects about DeFi and Generative A.I. space, through [iteralabs.ai](https://www.iteralabs.ai). 
 
 ## :computer:  Projects
 

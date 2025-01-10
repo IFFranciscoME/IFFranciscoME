@@ -1,6 +1,6 @@
 ## 👋 Hola, This is Me
 
-I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science and PhD in Engineering Sciences for AI (Candidate). I work also as a contractor for projects about DeFi and Generative A.I. space, through [iteralabs.ai](https://www.iteralabs.ai). 
+I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science and PhD in Engineering Sciences for AI (Candidate). I work also as a Data Engineering and MLOps contractor for projects about DeFi and Generative A.I. space, through [iteralabs.ai](https://www.iteralabs.ai).
 
 ## :computer:  Projects
 

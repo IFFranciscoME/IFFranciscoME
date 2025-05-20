@@ -6,10 +6,8 @@ I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science, and
 
 | Name | Description | Official | 
 |:--------------------:|:--------:|:-----------:|
-| [atelier](https://github.com/iteralabs/atelier) | A Computational Framework for Market Microstructure Modeling. | Rust / Quant / DeFi |
 | [delorian](https://github.com/iffranciscome/delorian) | Solana transactions data artifacts and modeling | Solana / Rust / MEV |
 | [molina](https://github.com/iteralabs/molina) | A research agent to assist knowledge summarization of academic papers | Rust / Python / RAG / LLMs |
-| [traderman](https://github.com/iteralabs/traderman) | Python SDK to build, train, stress-test, deploy and monitor trading strategies | Python / Quant |
 | [magnetise](https://github.com/iteralabs/magnetise) | A Rust library to find similarity between SQL queries | Rust / postgreSQL / Data Engineering |
 
 ## 🥇 Awards 

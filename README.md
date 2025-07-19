@@ -7,8 +7,8 @@ I Have a background on B.Eng in Financial Engineering, M.Sc in Data Science, and
 | Name | Description | Official | 
 |:--------------------:|:--------:|:-----------:|
 | [atelier-rs](https://github.com/iteralabs/atelier-rs) | Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling. | Rust / Quant / HFT |
-| [luciene-sl](https://github.com/iteralabs/luciene-sl) | Transparent and Stateless Agent for OnChain Financial Models |
-| [magnetise](https://github.com/iteralabs/magnetise) | A Rust library to find similarity between SQL queries | Rust / postgreSQL / Data Engineering |
+| [luciene-sl](https://github.com/iteralabs/luciene-sl) | Transparent and Stateless Agent for OnChain Financial Models | Solana / MEV / Quant |
+| [magnetise](https://github.com/iteralabs/magnetise) | A Rust library to find similarity between SQL queries | Rust / Data Engineering / Regex Pattern |
 
 ## 🥇 Awards 
 
